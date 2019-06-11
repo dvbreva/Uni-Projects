@@ -155,7 +155,7 @@ public class MyFrame extends JFrame {
 
 		// up panel == patients
 		upPanel.setLayout(new GridLayout(3, 1));
-		upPanel.setSize(590, 490);
+		upPanel.setSize(610, 490);
 		upPanel.add(innerUpPanel);
 		innerUpPanel.setLayout(new GridLayout(6, 2));
 		innerUpPanel.setSize(450, 450);
@@ -188,7 +188,7 @@ public class MyFrame extends JFrame {
 
 		upPanel.add(downUpPanel);
 		downUpPanel.add(scroller);
-		scroller.setPreferredSize(new Dimension(650, 140));
+		scroller.setPreferredSize(new Dimension(690, 140));
 		table.setModel(DBConnector.getDetailedPatientsInfoModel());
 		table.addMouseListener(new MousePatientsTableAction());
 
@@ -370,6 +370,8 @@ public class MyFrame extends JFrame {
 					e1.printStackTrace();
 				}
 			}
+			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 	}
 
@@ -446,6 +448,8 @@ public class MyFrame extends JFrame {
 			} catch (SQLException e1) {
 				e1.printStackTrace();
 			}
+			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 	}
 
@@ -465,6 +469,8 @@ public class MyFrame extends JFrame {
 			} catch (SQLException e1) {
 				e1.printStackTrace();
 			}
+			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 
 	}
@@ -505,6 +511,8 @@ public class MyFrame extends JFrame {
 						patientsDepartmentCombo.setSelectedIndex(i);
 					}
 				}
+				generateUpdatedDepartmentsCombo();
+				generateUpdatedPsychologistsCombo();
 			}
 		}
 
@@ -561,6 +569,8 @@ public class MyFrame extends JFrame {
 			} catch (SQLException e1) {
 				e1.printStackTrace();
 			}
+			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 
 	}
@@ -589,6 +599,8 @@ public class MyFrame extends JFrame {
 					e1.printStackTrace();
 				}
 			}
+			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 	}
 
@@ -693,6 +705,7 @@ public class MyFrame extends JFrame {
 				e1.printStackTrace();
 			}
 
+			generateUpdatedDepartmentsCombo();
 			generateUpdatedPsychologistsCombo();
 		}
 	}
@@ -715,6 +728,7 @@ public class MyFrame extends JFrame {
 				e1.printStackTrace();
 			}
 			
+			generateUpdatedDepartmentsCombo();
 			generateUpdatedPsychologistsCombo();
 		}
 
@@ -753,6 +767,7 @@ public class MyFrame extends JFrame {
 					e1.printStackTrace();
 				}
 			}
+			generateUpdatedDepartmentsCombo();
 			generateUpdatedPsychologistsCombo();
 			clearPsychologistsForm();
 		}
@@ -782,6 +797,8 @@ public class MyFrame extends JFrame {
 					e1.printStackTrace();
 				}
 			}
+			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 	}
 
@@ -842,12 +859,13 @@ public class MyFrame extends JFrame {
 				clearDepartmentsForm();
 				depTable.setModel(DBConnector.getAllDepartmentsModel());
 				id = 0;
-
+				table.setModel(DBConnector.getDetailedPatientsInfoModel());
 			} catch (SQLException e1) {
 				e1.printStackTrace();
 			}
 
 			generateUpdatedDepartmentsCombo();
+			generateUpdatedPsychologistsCombo();
 		}
 	}
 
@@ -1049,3 +1067,4 @@ public class MyFrame extends JFrame {
 
 	}
 }
+
