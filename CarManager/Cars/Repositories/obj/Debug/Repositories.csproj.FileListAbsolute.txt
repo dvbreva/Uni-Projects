@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\Repositories.dll
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\Repositories.pdb
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\Data.dll
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\Data.pdb
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\Data.dll.config
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Cars\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Cars\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Cars\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cars\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\user\source\repos\Cars\Repositories\obj\Debug\Repositories.dll
+C:\Users\user\source\repos\Cars\Repositories\obj\Debug\Repositories.pdb

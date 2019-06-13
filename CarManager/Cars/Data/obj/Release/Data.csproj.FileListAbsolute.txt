@@ -1,0 +1,12 @@
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\Data.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\Data.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\Data.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\EntityFramework.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\EntityFramework.xml
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\obj\Release\Data.csprojAssemblyReference.cache
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\obj\Release\Data.csproj.CopyComplete
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\obj\Release\Data.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Data\obj\Release\Data.pdb

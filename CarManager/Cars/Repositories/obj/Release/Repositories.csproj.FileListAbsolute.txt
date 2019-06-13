@@ -1,0 +1,15 @@
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\Repositories.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\Repositories.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\Repositories.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\Data.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\EntityFramework.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\Data.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\Data.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\EntityFramework.xml
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\obj\Release\Repositories.csprojAssemblyReference.cache
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\obj\Release\Repositories.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\obj\Release\Repositories.csproj.CopyComplete
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\obj\Release\Repositories.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\Repositories\obj\Release\Repositories.pdb

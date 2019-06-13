@@ -1,0 +1,63 @@
+C:\Users\user\source\repos\Cars\CarService\bin\CarService.dll.config
+C:\Users\user\source\repos\Cars\CarService\bin\CarService.dll
+C:\Users\user\source\repos\Cars\CarService\bin\CarService.pdb
+C:\Users\user\source\repos\Cars\CarService\bin\ApplicationServices.dll
+C:\Users\user\source\repos\Cars\CarService\bin\EntityFramework.dll
+C:\Users\user\source\repos\Cars\CarService\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Cars\CarService\bin\Data.dll
+C:\Users\user\source\repos\Cars\CarService\bin\Repositories.dll
+C:\Users\user\source\repos\Cars\CarService\bin\ApplicationServices.pdb
+C:\Users\user\source\repos\Cars\CarService\bin\ApplicationServices.dll.config
+C:\Users\user\source\repos\Cars\CarService\bin\EntityFramework.xml
+C:\Users\user\source\repos\Cars\CarService\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Cars\CarService\bin\Data.pdb
+C:\Users\user\source\repos\Cars\CarService\bin\Data.dll.config
+C:\Users\user\source\repos\Cars\CarService\bin\Repositories.pdb
+C:\Users\user\source\repos\Cars\CarService\bin\Repositories.dll.config
+C:\Users\user\source\repos\Cars\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Cars\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cars\CarService\obj\Debug\CarService.csproj.CopyComplete
+C:\Users\user\source\repos\Cars\CarService\obj\Debug\CarService.dll
+C:\Users\user\source\repos\Cars\CarService\obj\Debug\CarService.pdb
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\CarService.dll.config
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\CarService.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\CarService.pdb
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\ApplicationServices.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\EntityFramework.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\EntityFramework.SqlServer.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\Data.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\Repositories.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\ApplicationServices.pdb
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\ApplicationServices.dll.config
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\EntityFramework.xml
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\EntityFramework.SqlServer.xml
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\Data.pdb
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\Data.dll.config
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\Repositories.pdb
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\bin\Repositories.dll.config
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\obj\Debug\CarService.csproj.CopyComplete
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\obj\Debug\CarService.dll
+D:\Users\user\Desktop\desktop 3\CarManager-master\Cars\CarService\obj\Debug\CarService.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\CarService.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\CarService.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\CarService.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\ApplicationServices.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\EntityFramework.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\EntityFramework.SqlServer.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\Data.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\Repositories.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\ApplicationServices.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\ApplicationServices.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\EntityFramework.xml
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\EntityFramework.SqlServer.xml
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\Data.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\Data.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\Repositories.pdb
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\bin\Repositories.dll.config
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\obj\Debug\CarService.csproj.CopyComplete
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\obj\Debug\CarService.dll
+D:\Users\user\Desktop\Github\CarManager\Cars\CarService\obj\Debug\CarService.pdb
