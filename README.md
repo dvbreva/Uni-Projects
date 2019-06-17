@@ -7,6 +7,6 @@ Asylym is Java Swing Desktop app that allows you the manage an asylym-inspired s
 - has three entities - Patients, Psychologies and Departments - you can perform crud operations on all of them and to search by different criterias.
   
 ## Cars Manager  
-Cars Manager is an ASP.net app with and MVC website and WCF Service Application that I build during my distributed applications course.  
+Cars Manager is an ASP.net app with and MVC website and WCF SOAP Service Application that I build during my distributed web applications course.  
 - has three entities - Cars, Makes, Types and each Car has a Make and Type.  
 - may be tested with WcfTestClient 
