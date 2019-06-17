@@ -1,0 +1,14 @@
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\bin\Debug\ProductInventory.exe.config
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\bin\Debug\ProductInventory.exe
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\bin\Debug\ProductInventory.pdb
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\obj\Debug\MrRobotStore.csprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\obj\Debug\MrRobotStore.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\obj\Debug\ProductInventory.exe
+D:\Users\user\Desktop\uni\3 trimestur\oop c#\DankLibrary2\ProductInventory\obj\Debug\ProductInventory.pdb
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\bin\Debug\ProductInventory.exe.config
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\bin\Debug\ProductInventory.exe
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\bin\Debug\ProductInventory.pdb
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\obj\Debug\MrRobotStore.csprojAssemblyReference.cache
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\obj\Debug\MrRobotStore.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\obj\Debug\ProductInventory.exe
+D:\Users\user\Desktop\First Year\C# OOP\03-ProductInventory\ProductInventory\obj\Debug\ProductInventory.pdb

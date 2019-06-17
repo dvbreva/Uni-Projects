@@ -1,0 +1,7 @@
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\bin\Debug\IdValidator.exe.config
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\bin\Debug\IdValidator.exe
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\bin\Debug\IdValidator.pdb
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\obj\Debug\IdValidator.csprojAssemblyReference.cache
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\obj\Debug\IdValidator.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\obj\Debug\IdValidator.exe
+D:\Users\user\Desktop\First Year\C# OOP\01-EGN-Validator\IdValidator\obj\Debug\IdValidator.pdb
